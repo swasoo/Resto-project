@@ -142,3 +142,11 @@ li a {
 h1 {
     padding: 0px 10px;
 }
+@media (max-width : 991px) {
+    .bottom-margin-on-mobile {
+        margin-bottom : 50px;
+    }
+    .menu-item {
+        width: 100%;
+    }
+}
